@@ -46,7 +46,7 @@
 
 [Microsoft 365 Adoption - Melbourne](https://www.meetup.com/microsoft-365-adoption-melbourne/)
 
-[Power BI Melbourne](https://www.meetup.com/power-bi-melbourne/)(https://www.meetup.com/power-bi-melbourne/)
+[Power BI Melbourne](https://www.meetup.com/power-bi-melbourne/)
 
 [Financial Modelling in Excel Meetup - Melbourne](https://www.meetup.com/financial-modelling-in-excel-meetup-melbourne/)
 
