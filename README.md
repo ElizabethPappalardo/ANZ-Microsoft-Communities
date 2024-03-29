@@ -78,13 +78,19 @@
 
 ## 🚀 New Zealand Communities
 
+[Aotearoa Azure Meetup](https://www.meetup.com/auckland-azure-usergroup/)
+
 [Auckland Fabric, Power BI and Analytics](https://www.meetup.com/new-zealand-business-intelligence-user-group/)
 
 [Christchurch Microsoft Power Platform and Dynamics 365 Group](https://www.meetup.com/christchurch-microsoft-powerapps-flow-and-cds-meetup/)
 
-[Wellington M365 Meetup](https://www.meetup.com/wellington-m365-meetup/)
-
 [Coding Night NZ](https://www.meetup.com/coding-night-nz/)
+
+[Hamilton Azure Meetup Group](https://www.meetup.com/hamilton-microsoft-azure-meetup-group/)
+
+[MS Copilot User Group of Aotearoa]( https://www.meetup.com/ms-copilot-user-group-of-aotearoa/)
+
+[Wellington M365 Meetup](https://www.meetup.com/wellington-m365-meetup/)
 
 ## 🚀 ANZ Student Groups and Resources 
 
